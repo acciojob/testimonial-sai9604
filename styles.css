@@ -2,12 +2,18 @@
 body{
 	background-color: #f5f5f5;
 }
-.k{
+section{
 	border: 1px solid black;
-	backgound-color:white;
+	padding:10px;
 	
 	
 }
 .a{
 	text-align:end;
+}
+.k{
+	background-color:white;
+}
+.borderd{
+	justify-content:space-around;
 }
